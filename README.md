@@ -3,6 +3,7 @@
 A Server-Side Rendered **Pokémon Information Website** built using **Nuxt 3 (Vue 3 + TypeScript)** and **Custom CSS**. It consumes the [PokeAPI](https://pokeapi.co/) and offers search, detailed Pokémon profiles, API rate limiting, debouncing, and server-side logging.
 
 **Live Demo:** [https://pokemon-information-website.vercel.app/](https://pokemon-information-website.vercel.app/)
+
 **GitHub Repo:** [https://github.com/SampathKumarKolichalam/Pokemon-Information-Website](https://github.com/SampathKumarKolichalam/Pokemon-Information-Website)
 
 ---
