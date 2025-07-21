@@ -1,5 +1,3 @@
-// For PokeAPI /pokemon/{name} endpoint
-
 export interface PokeApiAbility {
   ability: {
     name: string;
@@ -18,7 +16,6 @@ export interface PokeApiSprite {
   };
 }
 
-// Response for a single Pokémon from PokeAPI /pokemon/{name}
 export interface PokeApiDetailResponse {
   name: string;
   height: number;

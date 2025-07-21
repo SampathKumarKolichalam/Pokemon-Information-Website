@@ -1,4 +1,3 @@
-// List result returned by PokeAPI /pokemon?limit=60 endpoint
 export interface PokeApiListResult {  
   name: string;
   url: string;
