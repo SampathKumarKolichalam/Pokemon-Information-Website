@@ -87,6 +87,52 @@ npm run format
 
 ---
 
+## Project Screenshots
+
+
+**Folder Structure**
+
+<img width="391" height="497" alt="image" src="https://github.com/user-attachments/assets/ba7755f7-afc3-4ec5-839d-ace17c41b251" />
+
+<img width="403" height="509" alt="image" src="https://github.com/user-attachments/assets/b2ac7047-95ac-4ce4-88f1-11cc2b08b199" />
+
+
+**Web Application Server(Frontend + Backend)**
+
+<img width="1022" height="379" alt="image" src="https://github.com/user-attachments/assets/46b5309b-5c20-42d8-817f-3c90ab0d250b" />
+
+
+**Pokemon API Endpoints Testing in Browser**
+
+<img width="1357" height="672" alt="image" src="https://github.com/user-attachments/assets/ed23fae3-5258-4a19-a46c-4c1ec5ff5f1e" />
+
+<img width="1366" height="219" alt="image" src="https://github.com/user-attachments/assets/d7e10e37-5516-48b0-8059-50d0587914d9" />
+
+
+**Pokemon API Endpoints Testing in ThunderClient**
+
+<img width="1081" height="591" alt="image" src="https://github.com/user-attachments/assets/3b2a68ae-c1a3-4422-9296-545adfc824a2" />
+
+<img width="1092" height="522" alt="image" src="https://github.com/user-attachments/assets/3ce2b9a1-40f6-4608-ab8a-5031f173492e" />
+
+
+**Search Debouncing Testing in Browser(Dev Tools)**
+
+<img width="1113" height="566" alt="image" src="https://github.com/user-attachments/assets/fc0c0c98-af63-44ad-a16b-4ff2c426d4c3" />
+
+<img width="1123" height="546" alt="image" src="https://github.com/user-attachments/assets/3894af90-70ad-4689-a7de-64a9c36b87e6" />
+
+
+**Web Application Deployed in Vercel**
+
+<img width="1361" height="629" alt="image" src="https://github.com/user-attachments/assets/133c71a4-d74c-4e50-9c95-36c0571b44d8" />
+
+<img width="1361" height="689" alt="image" src="https://github.com/user-attachments/assets/77752e95-fa0b-42c1-b435-6a037bb42086" />
+
+<img width="1361" height="691" alt="image" src="https://github.com/user-attachments/assets/a7607dee-2b45-4955-9fe7-1178200cc99d" />
+
+---
+
 ## Roadmap / Future Enhancements
 
 * Add advanced fuzzy search or Solr-style search
