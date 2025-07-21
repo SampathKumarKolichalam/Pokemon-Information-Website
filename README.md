@@ -19,7 +19,7 @@ A Server-Side Rendered **Pokémon Information Website** built using **Nuxt 3 (Vu
 ## High-Level Architecture
 
 Architecture Diagram:
-[https://github.com/user-attachments/assets/5ef2375d-313a-4dc5-912f-4cf74d032818](https://github.com/user-attachments/assets/5ef2375d-313a-4dc5-912f-4cf74d032818)
+<img width="1183" height="597" alt="image" src="https://github.com/user-attachments/assets/818a8979-8282-4762-be46-1f5d9ea51768" />
 
 ---
 
