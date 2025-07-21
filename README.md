@@ -10,9 +10,9 @@ A Server-Side Rendered **Pokémon Information Website** built using **Nuxt 3 (Vu
 
 ## Key Features
 
-* API Proxying & Rate Limiting - Secure backend integration
-* Error Logging for Monitoring
-* Fully Responsive UI - Built with lightweight custom CSS only
+* API Proxying & Rate Limiting - Secure backend integration.
+* Error Logging for Monitoring.
+* Fully Responsive UI - Built with lightweight custom CSS only.
 
 ---
 
